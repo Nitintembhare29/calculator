@@ -5,7 +5,8 @@ body{
 }
 .container{
     border: 2px solid #8a8787;
-    margin: 0px 519px;
+    width: 305px;
+    margin: 0 auto;
     display: flex;
     flex-direction: column;
     justify-content: center;
